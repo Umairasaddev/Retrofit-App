@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Dashboard"
+        android:id="@+id/Dashboard"
+        android:icon="@drawable/ic_baseline_dashboard_24"
+        />
+
+    <item
+        android:title="Users"
+        android:id="@+id/Users"
+        android:icon="@drawable/ic_baseline_supervised_user_circle_24"
+        />
+    <item
+        android:title="Profile"
+        android:id="@+id/Profile"
+
+        android:icon="@drawable/ic_baseline_account_box_24"
+        />
+
+
+
+</menu>
